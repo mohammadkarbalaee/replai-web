@@ -24359,9 +24359,9 @@ var $async$Zr=A.S(function(a,b){if(a===1)return A.O(b,r)
 while(true)switch(s){case 0:$.t2=new A.ath()
 A.hK("1")
 A.hK("here")
-q=$.axy()
+q=$.axy().a.nk("1184494975077140",!0,"v15.0",!0)
 s=2
-return A.I(q.a.nk("1184494975077140",!0,"v14.0",!0),$async$Zr)
+return A.I(q,$async$Zr)
 case 2:A.hK("there")
 if($.E==null)A.aNH()
 q=$.E
@@ -24674,8 +24674,7 @@ return A.I($.axy().a.mX(B.K8,B.pn),$async$Zq)
 case 3:n=b
 A.hK("result message:  "+A.f(n.b))
 p=n.c
-A.hK("token "+A.f(p))
-p.toString
+A.hK("token "+p.d)
 o=A.aTx(p)
 s=o===B.ia?4:5
 break
