@@ -40,8 +40,8 @@ const RESOURCES = {
 "splash/img/light-1x.png": "77a7f7da3c21b74fb185eb6d7c94d95a",
 "splash/style.css": "3e8699dd65a865ff991ec5b47a93643d",
 "splash/splash.js": "123c400b58bea74c1305ca3ac966748d",
-"index.html": "fde4fcc5e853fea9c03cfef85b84bcb4",
-"/": "fde4fcc5e853fea9c03cfef85b84bcb4",
+"index.html": "272beb81819b086fb2c9b0cadf0b2586",
+"/": "272beb81819b086fb2c9b0cadf0b2586",
 "favicon.png": "e91e348884f1d84036775eee9f5d08d1",
 "version.json": "3c6350ff12c68cca61cbc4e13dc8dd4b",
 "manifest.json": "45bddf33ee0ce3bcfefb8cabab9d19a2"
